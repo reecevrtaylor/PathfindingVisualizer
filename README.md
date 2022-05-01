@@ -53,7 +53,7 @@ Here I will desribe the process of installing the project. You can either run th
 1. Clone the repo
 
    ```sh
-   git clone https://cseegit.essex.ac.uk/ce301_21-22/CE301_taylor_reece_v_r.git
+   git clone
    ```
 
 2. Navigate to ImprovedVisualizer_jar directory.
@@ -67,13 +67,13 @@ Alternatively, if you want to ensure that the JAR file is the most up to date, y
 1. Clone the repo
 
    ```sh
-   git clone https://cseegit.essex.ac.uk/ce301_21-22/CE301_taylor_reece_v_r.git
+   git clone 
     ```
 
 2. Change directory to ImprovedVisualizer directory.
 
     ```sh
-    cd CE301_taylor_reece_v_r\ImprovedVisualizer
+    cd
     ```
 
 3. Now run a build with mvn
