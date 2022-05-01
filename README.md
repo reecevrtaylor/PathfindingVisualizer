@@ -4,7 +4,7 @@
   <p align="center">
     CE301 Capstone Project
     <br>
-    Reece Taylor | David Richerby
+    Reece Taylor
 <details>
   <summary>Contents</summary>
   <ol>
