@@ -2,7 +2,7 @@
 <div align="center">
   <h2 align="center">Pathfinding Visualizer</h2>
   <p align="center">
-    CE301 Capstone Project
+    Capstone Project
     <br>
     Reece Taylor
 <details>
