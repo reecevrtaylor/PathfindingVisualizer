@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ImprovedVisualizer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ImprovedVisualizer_jar</output-path>
+    <root id="archive" name="ImprovedVisualizer.jar">
+      <element id="module-output" name="ImprovedVisualizer" />
+    </root>
+  </artifact>
+</component>
