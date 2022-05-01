@@ -239,19 +239,7 @@ Additions:
 Bugs:
 * As you drag the start node (blue) it will move as if it's a wall and leave a trail (minor - doesnt impact the way the program runs at all, clears when any button is pressed).
 
-## 📞 Contact
 
-Reece Taylor - rt19889@essex.ac.uk
-
-David Richerby - david.richerby@essex.ac.uk
-
-Project Link: [https://cseegit.essex.ac.uk/ce301_21-22/CE301_taylor_reece_v_r.git](https://cseegit.essex.ac.uk/ce301_21-22/CE301_taylor_reece_v_r.git)
-
-<p align="right"><a href="#top">⬆️</a></p>
-
-## 👍 Acknowledgments
-
-I would like to thank David Richerby, my project supervisor, for all the help and guidance he has provided me throughout this project. I would also like to thank my family and friends for moral support, my girlfriend Alexandra Hopkins and my father Andrew Taylor in particular.
 <p align="right"><a href="#top">⬆️</a></p>
 
 ## 🎫 License
