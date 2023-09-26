@@ -1,27 +1,37 @@
-# Pathfinding Visualizer
+<div id="top"></div>
 <div align="center">
-  <h2>Capstone Project</h2>
-  <p>Reece Taylor</p>
+  <h2 align="center">Pathfinding Visualizer</h2>
+  <p align="center">
+    Capstone Project
+    <br>
+    Reece Taylor
+  </p>
 </div>
 
-### Contents
-1. [About The Project](#about-the-project)
-2. [Getting Started](#getting-started)
-    * [Prerequisites](#prerequisites)
-    * [Installation](#installation)
-3. [Technical Documentation](#technical-documentation)
-4. [Examples](#examples)
-5. [Roadmap](#roadmap)
-6. [License](#license)
+<details open>
+  <summary><strong>Contents</strong></summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    <li><a href="#technical-documentation">Technical Documentation</a></li>
+    <li><a href="#examples">Examples</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#license">License</a></li>
+  </ol>
+</details>
 
-## About The Project 🎓
+## <a id="about-the-project"></a>🎓 About The Project
 The Pathfinding Visualizer is an educational tool designed for learners to explore and understand pathfinding algorithms, visualizing their operations in real-time.
 
 Originally, I embarked on this project to enhance my comprehension of algorithms—a cornerstone of computer science. By developing this visualization tool, I could witness algorithmic behaviors firsthand. The overarching goal was not only to complete the project but to mature as a software developer. I believe this endeavor, combined with the knowledge I've gained through research and hands-on experience, has greatly enriched my skills.
 
-## Getting Started ✅
+## <a id="getting-started"></a>✅ Getting Started
 
-### Prerequisites ⚠️
+### <a id="prerequisites"></a>⚠️ Prerequisit
 * **JDK 17 or later**
     - [Windows](https://www.oracle.com/java/technologies/downloads/#jdk18-windows)
     - [macOS](https://www.oracle.com/java/technologies/downloads/#jdk18-mac)
@@ -30,7 +40,7 @@ Originally, I embarked on this project to enhance my comprehension of algorithms
     - [Download](https://maven.apache.org/download.cgi)
     - [Installation Guide](https://maven.apache.org/install.html)
 
-### Installation 🖥️
+### <a id="installation"></a>🖥️ Installation
 To utilize the Pathfinding Visualizer, you can execute the pre-compiled JAR file or build the project from source.
 
 **Using Pre-compiled JAR:**
@@ -66,7 +76,7 @@ To utilize the Pathfinding Visualizer, you can execute the pre-compiled JAR file
   </video>
 </div>
 
-## Technical Documentation 📝
+## <a id="technical-documentation"></a>📝 Technical Documentation
 This section delves into the technical specifics of the project, from its architecture to algorithmic implementations.
 
 ### Project Configuration
@@ -103,7 +113,7 @@ Heuristics utilized are:
 
 For an in-depth exploration of each feature, algorithm, and heuristic, please consult the provided [examples](#examples).
 
-## Examples 📸
+## <a id="examples"></a>📸 Examples
 Presented below are visual demonstrations showcasing how various algorithms and heuristics navigate identical mazes.
 
 ### A* Examples
@@ -126,7 +136,7 @@ Presented below are visual demonstrations showcasing how various algorithms and 
 - **BFS without Walls**:
   ![BFS No Walls](Resources/program_bfs_nowalls.png)
 
-## Roadmap 🗺️
+## <a id="roadmap"></a>🗺️ Roadmap
 Continuous enhancement is at the heart of this project. I aim to integrate additional features, bolstering the user experience further.
 
 **Planned Additions**:
@@ -136,5 +146,5 @@ Continuous enhancement is at the heart of this project. I aim to integrate addit
 **Known Issues**:
 - Dragging the start node leaves a trail, mimicking wall behavior. This minor glitch doesn't hamper functionality and is rectified upon pressing any button.
 
-## License 🎫
+## <a id="license"></a>🎫 License
 This project is licensed under the [GNU General Public License v3.0](LICENSE).
